@@ -1,2 +1,2 @@
 # gis-portfolio
-portfolio of GIS projects
+This is my GIS portfolio where I will upload mapping and data analysis projects as I learn new skills.
