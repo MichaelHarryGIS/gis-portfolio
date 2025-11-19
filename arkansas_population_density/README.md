@@ -14,7 +14,7 @@ View the interactive ArcGIS Online map here:
 https://arcg.is/1q4H4K1
 
 ## Screenshot
-![Arkansas Population Density](arkansas_population_density.png)
+![Arkansas Population Density](arkansas_population_density.PNG)
 
 
 ## Data Source
