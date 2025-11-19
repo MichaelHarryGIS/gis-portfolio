@@ -11,7 +11,7 @@ This project demonstrates:
 
 ## Live Map
 View the interactive ArcGIS Online map here:  
-[Open Map in ArcGIS Online](https://arcg.is/1q4H4K1)
+[Open Map in ArcGIS Online](https://www.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=321267eb010d4bcdb2da0d2102fe735b&theme=light&center=-91.43891770853061,34.69538409746949&scale=4622324.434309)
 
 ## Screenshot
 ![Arkansas Population Density](arkansas_population_density.PNG)
