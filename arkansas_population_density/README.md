@@ -11,7 +11,8 @@ This project demonstrates:
 
 ## Live Map
 View the interactive ArcGIS Online map here:  
-[Open Map in ArcGIS Online](https://www.arcgis.com/home/item.html?id=321267eb010d4bcdb2da0d2102fe735b)
+[Open Map in ArcGIS Online](https://www.arcgis.com/home/webmap/viewer.html?webmap=321267eb010d4bcdb2da0d2102fe735b)
+
 
 
 ## Screenshot
